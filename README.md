@@ -25,3 +25,5 @@
 ![Screenshot 2024-01-28 115000](https://github.com/IT21826740/Angular-short-note/assets/111214065/1a37deec-fec2-4a26-9a82-d4ec19a60623)
 ![Screenshot 2024-01-28 114934](https://github.com/IT21826740/Angular-short-note/assets/111214065/25d8d8ac-794b-4765-913f-dd5a659b048c)
 ![Screenshot 2024-01-28 114934 - Copy](https://github.com/IT21826740/Angular-short-note/assets/111214065/a4c2dfff-6498-4e05-bcbd-af2f5c0df170)
+
+SOLOLEARN
